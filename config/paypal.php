@@ -3,8 +3,8 @@
 return array(
 
 	//set your paypal credential
-	'client_id' => 'AUw9aEDOCInC5sTPy4r_Ehh3FXEF3KQcbnanH_p7nvBy8H52zL0qf9bHk0HsMaKHGsTLrkuuRmX-mgjs',
-	'secret' 	=>'ENOQGGL-UNqtBHPCheoFp3IRpOYlzhTqC-LkBYtL8_wVFa0U99JU8C01UnzL0h1fupcUygg6gB4zl4LK',
+	'client_id' => '....................................',
+	'secret' 	=>'.........................................',
 
 
 	/**
