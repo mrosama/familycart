@@ -1,0 +1,2 @@
+[03-Jan-2017 04:47:52 UTC] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/ftrolley/public_html/app/Http/Middleware/EncryptCookies.php on line 8
+[03-Jan-2017 04:47:53 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/ftrolley/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 8

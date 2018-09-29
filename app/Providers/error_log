@@ -1,0 +1,8 @@
+[22-Dec-2016 15:21:29 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/ftrolley/public_html/app/Providers/AppServiceProvider.php on line 9
+[22-Dec-2016 23:36:48 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/ftrolley/public_html/app/Providers/AuthServiceProvider.php on line 9
+[22-Dec-2016 23:37:44 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/ftrolley/public_html/app/Providers/RouteServiceProvider.php on line 9
+[22-Dec-2016 23:40:46 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/ftrolley/public_html/app/Providers/EventServiceProvider.php on line 9
+[03-Jan-2017 04:35:47 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/ftrolley/public_html/app/Providers/AppServiceProvider.php on line 9
+[03-Jan-2017 04:35:49 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/ftrolley/public_html/app/Providers/AuthServiceProvider.php on line 9
+[03-Jan-2017 04:35:53 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/ftrolley/public_html/app/Providers/EventServiceProvider.php on line 9
+[03-Jan-2017 04:35:53 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/ftrolley/public_html/app/Providers/RouteServiceProvider.php on line 9

@@ -1,0 +1,6 @@
+[22-Dec-2016 06:55:10 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/ftrolley/public_html/app/Http/Kernel.php on line 7
+[22-Dec-2016 14:26:21 UTC] PHP Fatal error:  Class 'Request' not found in /home/ftrolley/public_html/app/Http/routes.php on line 6
+[22-Dec-2016 23:30:02 UTC] PHP Fatal error:  Class 'Request' not found in /home/ftrolley/public_html/app/Http/routes.php on line 6
+[22-Dec-2016 23:30:44 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/ftrolley/public_html/app/Http/Kernel.php on line 7
+[03-Jan-2017 04:35:27 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/ftrolley/public_html/app/Http/Kernel.php on line 7
+[03-Jan-2017 04:35:41 UTC] PHP Fatal error:  Class 'Request' not found in /home/ftrolley/public_html/app/Http/routes.php on line 6

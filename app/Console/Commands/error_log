@@ -1,0 +1,1 @@
+[03-Jan-2017 04:45:50 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/ftrolley/public_html/app/Console/Commands/Inspire.php on line 9

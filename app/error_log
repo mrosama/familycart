@@ -1,0 +1,2 @@
+[03-Jan-2017 04:29:16 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/ftrolley/public_html/app/User.php on line 8
+[21-Jan-2017 21:07:07 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/ftrolley/public_html/app/User.php on line 8

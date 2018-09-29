@@ -1,0 +1,1 @@
+[03-Jan-2017 04:58:18 UTC] PHP Fatal error:  Call to undefined function isMobile() in /home/ftrolley/public_html/resources/emails/checkout/adminmail.blade.php on line 20

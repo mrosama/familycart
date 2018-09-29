@@ -1,0 +1,8 @@
+[03-Jan-2017 04:48:31 UTC] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home/ftrolley/public_html/app/Http/Requests/ChangePasswordRequest.php on line 5
+[03-Jan-2017 04:48:32 UTC] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home/ftrolley/public_html/app/Http/Requests/LoginRequest.php on line 5
+[03-Jan-2017 04:48:32 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/ftrolley/public_html/app/Http/Requests/Request.php on line 8
+[03-Jan-2017 04:48:32 UTC] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home/ftrolley/public_html/app/Http/Requests/RegitserationRequest.php on line 8
+[03-Jan-2017 04:48:34 UTC] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home/ftrolley/public_html/app/Http/Requests/ResetPasswordRequest.php on line 5
+[03-Jan-2017 04:48:35 UTC] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home/ftrolley/public_html/app/Http/Requests/UpdateProfileRequest.php on line 8
+[03-Jan-2017 04:48:35 UTC] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home/ftrolley/public_html/app/Http/Requests/VisitorLoginRequest.php on line 7
+[03-Jan-2017 04:48:36 UTC] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home/ftrolley/public_html/app/Http/Requests/forgetPasswordRequest.php on line 5

@@ -1,0 +1,2 @@
+[03-Jan-2017 04:47:50 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/ftrolley/public_html/app/Http/Controllers/Controller.php on line 12
+[03-Jan-2017 04:47:51 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/ftrolley/public_html/app/Http/Controllers/GetDataController.php on line 22
